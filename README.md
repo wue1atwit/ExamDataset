@@ -74,7 +74,7 @@ These graphs demonstrate the diversity in the data, and the division of each sep
 
 **Distribution Between Scores**:
 
-[PLACE IMAGE HERE]
+![Score Distribution Graph](https://github.com/wue1atwit/ExamDatatset/blob/6498b9a57064f4c778032d42e193679c1add2ad3/Images/scoreDistribution.png?raw=true)
 
 **Observation**:
 These bar graphs demonstrate the distribution between the 3 different types of tests, and then the average score of all tests combined. The shape of these graphs follow a normal distribution, with slight variation. Another observation is that there were more students scoring perfect / very high on the tests than those who scored extremely poorly.
