@@ -95,7 +95,7 @@ This graph shows the distribution of average scores compared between male and fe
 ![Parent Level of Education Distribution Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/individualPaytonParentEducationDist.png?raw=true)
 
 **Observation**:
-This section involved creating a histogram with the average test score on the x-axis, and the count on the y-axis. It displays hows the distribution of average test scores depending on the education of the student’s parents.
+This section involved creating a histogram with the average test score on the x-axis, and the count on the y-axis. It displays the distribution of average test scores split up into categories determined by the education of the student’s parents.
 
 ### Linear Regression Model- Math vs Reading Scores: Male & Females
 
