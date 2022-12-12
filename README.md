@@ -108,49 +108,49 @@ We believe a box plot would be the best visualization to help us visualize the c
 
 ### Gender and Scores:
 
-[PLACE IMAGE HERE]
+![Gender Box Plot](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/genderBoxPlot.png)
 
 **Observation**:
 For the math score plot, it shows that male students have a higher average math score than female students. However, for both reading and writing score plots, it shows that female students have a higher average score than male students.
 
 ### Parent Level of Education and Scores:
 
-[PLACE IMAGE HERE]
+![Parental Level of Education Box Plot](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/parentEducationBoxPlot.png)
 
 **Observation**:
 Students with parents who went to college or some higher education perform better in all subjects. The interquartile range also indicates that the score range also seems better as the parental level of education increases.
 
 ### Groups and Scores:
 
-[PLACE IMAGE HERE]
+![Group Box Plot](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/groupBoxPlot.png)
 
 **Observation**:
 There seems to be less of a noticeable difference between students of different races and ethnicity when it comes to exam scores. However, we can see that in all box plots groups D and group E are usually higher than groups A, B, and C. These two sections also have means similar to each other.
 
 ### Test Preparation and Scores:
 
-[PLACE IMAGE HERE]
+![Test Preparation Box Plot](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/testPrepBoxPlot.png)
 
 **Observation**:
 Students that complete a test preparation course or do some kind of test preparation score higher than students who do not do any test preparation.
 
 ### Lunch and Scores:
 
-[PLACE IMAGE HERE]
+![Lunch Box Plot](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/lunchBoxPlot.png)
 
 **Observation**:
 Students that have standard lunch score higher on the exams than students who have free or reduced lunches.
 
 ### Correlation Between Scores:
 
-[PLACE IMAGE HERE]
+![Score Correlation Pairplot](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/scoreCorrelation.png)
 
 **Observation**:
 The diagonal shows the distribution between scores, while the non-diagonal plots show the relationship between two differing scores. For example, the first-row middle column shows that as reading score increases math score also increases. For the second-row middle column, it shows that as the reading score increases writing score also increases, but the points are more tightly clustered which means that these two scores have a better correlation.
 
 ### Correlation Between Scores (Gender):
 
-[PLACE IMAGE HERE]
+![Gender Score Correlation Pairplot](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/genderCorrelation.png)
 
 **Observation**:
 The difference between this pair plot and the last one is that it splits the points into two parts (by gender). Some plots show that there are distinct sections between males and females. For example, in the first-row middle column, for female students as the reading score increases the math score increases slower than for male students. Another example is in the second-row first column for male students as the math score increases the writing score increases slower than female students.
