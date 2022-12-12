@@ -77,14 +77,14 @@ These graphs demonstrate the diversity in the data, and the division of each sep
 ![Score Distribution Graph](https://github.com/wue1atwit/ExamDatatset/blob/6498b9a57064f4c778032d42e193679c1add2ad3/Images/scoreDistribution.png?raw=true)
 
 **Observation**:
-These bar graphs demonstrate the distribution between the 3 different types of tests, and then the average score of all tests combined. The shape of these graphs follow a normal distribution, with slight variation. Another observation is that there were more students scoring perfect / very high on the tests than those who scored extremely poorly.
+These bar graphs demonstrate the distribution between the 3 different types of tests, and then the average score of all tests combined. The shape of these graphs follows a normal distribution, with slight variation. Another observation is that there were more students scoring perfect / very high on the tests than those who scored extremely poorly.
 
 **Distribution Between Genders**:
 
 ![Gender Distribution Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/genderDistribution.png)
 
 **Observation**:
-This graph shows the distribution of average scores compared between male and female students. The purple, which is the most common color in the visualization shows the overlap of male and female scores. Also, the graph followed a normal distribution with slight variation, namely more students scored extremely high than those who scored extremely low.
+This graph shows the distribution of average scores compared between male and female students. Purple, which is the most common color in the visualization shows the overlap of male and female scores. Also, the graph followed a normal distribution with slight variation, namely more students scored extremely high than those who scored extremely low.
 
 ### **Individual Portion Submission**
 
@@ -100,4 +100,4 @@ This section involved creating a histogram with the average test score on the x-
 ![Linear Regression Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/individualPaytonRegression.png)
 
 **Observation**:
-The first step was to create a scatter plot of the math scores of both males and females on the x-axis, in order to then align it with the reading scores on the y-axis. The next step was to create a line of best fit (regression line) using the slope of the data, with red to represent the female scores, and dark blue for male scores.
+The first step was to create a scatter plot of the math scores of both males and females on the x-axis, in order to then align it with the reading scores on the y-axis. The next step was to create a line of best fit (regression line) using the slope of the data, with red to represent the female scores and dark blue for male scores.
