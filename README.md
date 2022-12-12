@@ -1,5 +1,10 @@
 # **Exam Performance Dataset Project**
 
+### **Contributors**
+
+- @wue1atwit
+- @falconepatwit
+
 ### **Tabel of Content**
 
 - **[Abstract](#abstract)**<br>
