@@ -60,7 +60,7 @@ There may be some points of view that may oppose some of our findings for this d
 
 ### Diversity in Data (Gender):
 
-[PLACE IMAGE HERE]
+![Gender Diversity Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/genderDataNew.png)
 
 **Observation**:
 These graphs show the distribution of students in the data organized by gender. It is evident that there is slightly more male than female students.
