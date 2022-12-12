@@ -60,14 +60,14 @@ There may be some points of view that may oppose some of our findings for this d
 
 ### Diversity in Data (Gender):
 
-[PLACE IMAGE HERE]
+![Gender Diversity Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/genderDataNew.png)
 
 **Observation**:
 These graphs show the distribution of students in the data organized by gender. It is evident that there is slightly more male than female students.
 
 ### Diversity in Data (Race/Ethnicity):
 
-[PLACE IMAGE HERE]
+![Group Diversity Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/groupDataNew.png)
 
 **Observation**:
 These graphs demonstrate the diversity in the data, and the division of each separate race/ethnicity taking the tests. There is a slight inequality in the total number of students in each group, which is to be expected considering each student was randomly selected.
@@ -77,27 +77,27 @@ These graphs demonstrate the diversity in the data, and the division of each sep
 ![Score Distribution Graph](https://github.com/wue1atwit/ExamDatatset/blob/6498b9a57064f4c778032d42e193679c1add2ad3/Images/scoreDistribution.png?raw=true)
 
 **Observation**:
-These bar graphs demonstrate the distribution between the 3 different types of tests, and then the average score of all tests combined. The shape of these graphs follow a normal distribution, with slight variation. Another observation is that there were more students scoring perfect / very high on the tests than those who scored extremely poorly.
+These bar graphs demonstrate the distribution between the 3 different types of tests, and then the average score of all tests combined. The shape of these graphs follows a normal distribution, with slight variation. Another observation is that there were more students scoring perfect / very high on the tests than those who scored extremely poorly.
 
 **Distribution Between Genders**:
 
-[PLACE IMAGE HERE]
+![Gender Distribution Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/genderDistribution.png)
 
 **Observation**:
-This graph shows the distribution of average scores compared between male and female students. The purple, which is the most common color in the visualization shows the overlap of male and female scores. Also, the graph followed a normal distribution with slight variation, namely more students scored extremely high than those who scored extremely low.
+This graph shows the distribution of average scores compared between male and female students. Purple, which is the most common color in the visualization shows the overlap of male and female scores. Also, the graph followed a normal distribution with slight variation, namely more students scored extremely high than those who scored extremely low.
 
 ### **Individual Portion Submission**
 
 ### Distribution Between Parent Level of Education:
 
-[PLACE IMAGE HERE]
+![Parent Level of Education Distribution Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/individualPaytonParentEducationDist.png)
 
 **Observation**:
 This section involved creating a histogram with the average test score on the x-axis, and the count on the y-axis. It displays hows the distribution of average test scores depending on the education of the student’s parents.
 
 ### Linear Regression Model- Math vs Reading Scores: Male & Females
 
-[PLACE IMAGE HERE]
+![Linear Regression Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/individualPaytonRegression.png)
 
 **Observation**:
 The first step was to create a scatter plot of the math scores of both males and females on the x-axis, in order to then align it with the reading scores on the y-axis. The next step was to create a line of best fit (regression line) using the slope of the data, with red to represent the female scores, and dark blue for male scores.
