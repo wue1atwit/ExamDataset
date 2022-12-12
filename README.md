@@ -56,6 +56,10 @@ There may be some points of view that may oppose some of our findings for this d
 
 # **Division of Work (Review):**
 
-## **Payton**
+### **Payton**
 
 ### Diversity in Data (Gender):
+
+[PLACE IMAGER HERE]
+
+**Observation**:
