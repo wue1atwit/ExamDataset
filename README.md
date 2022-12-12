@@ -2,7 +2,6 @@
 
 ### **Contributors**
 
-
 <a href="https://github.com/wue1atwit/ExamDatatset/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wue1atwit/ExamDatatset" />
 </a>
@@ -55,4 +54,8 @@ In conclusion, with our analysis of the data and visualization, we can conclude 
 
 There may be some points of view that may oppose some of our findings for this dataset. Some people may have the mindset that students with parents who went to higher education usually would perform worse in school because they do not have similar aspirations to getting into higher education to students whose parents did not go to college. On the other hand, students whose parents went to higher education may be more capable of “lending a helping hand” to their students to help them study for the exam. For instance, the parent may have a strong grasp on certain subjects like math where they are able to explain and lead their children to success. Overall, there may be other factors that play a role in determining students’ performance on these exams.
 
-## **Payton Individual**
+# **Division of Work (Review):**
+
+## **Payton**
+
+### Diversity in Data (Gender):
