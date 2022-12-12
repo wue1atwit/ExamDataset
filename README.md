@@ -56,7 +56,9 @@ There may be some points of view that may oppose some of our findings for this d
 
 # **Division of Work (Review):**
 
-### **Payton's Contribution**
+Here in this section, we will be showing the division of work and what we observed and conclude based on the visulation we have created.
+
+## **Payton's Contribution**
 
 ### Diversity in Data (Gender):
 
