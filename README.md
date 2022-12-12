@@ -2,6 +2,7 @@
 
 ### **Contributors**
 
+
 <a href="https://github.com/wue1atwit/ExamDatatset/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wue1atwit/ExamDatatset" />
 </a>
@@ -53,3 +54,5 @@ For the results, we will be discussing our findings in our personal section beca
 In conclusion, with our analysis of the data and visualization, we can conclude a variety of different factors and attributes that may affect a student’s exam score. We found out those students with parents that had higher levels of education usually scored higher on their exams than those with parents of lower education. Next, we found that students who had a standard lunch, essentially paid more to get lunch, would usually score higher than those who had free or reduced lunch. Relating back to our hypothesis, we can also conclude that students who prepared for the exam performed better than those who did not prepare. Finally, from our visualization, mainly the pair plots, we can see that all the test scores – math, reading, and writing – are proportional to each other. For example, we can see that as students’ math scores increased so did their reading scores.
 
 There may be some points of view that may oppose some of our findings for this dataset. Some people may have the mindset that students with parents who went to higher education usually would perform worse in school because they do not have similar aspirations to getting into higher education to students whose parents did not go to college. On the other hand, students whose parents went to higher education may be more capable of “lending a helping hand” to their students to help them study for the exam. For instance, the parent may have a strong grasp on certain subjects like math where they are able to explain and lead their children to success. Overall, there may be other factors that play a role in determining students’ performance on these exams.
+
+## **Payton Individual**
