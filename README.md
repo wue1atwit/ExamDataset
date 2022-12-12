@@ -102,7 +102,7 @@ This section involved creating a histogram with the average test score on the x-
 ![Linear Regression Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/individualPaytonRegression.png?raw=true)
 
 **Observation**:
-The first step was to create a scatter plot of the math scores of both males and females on the x-axis, in order to then align it with the reading scores on the y-axis. The next step was to create a line of best fit (regression line) using the slope of the data, with red to represent the female scores, and dark blue for male scores.
+The graph creates a scatter plot of the math scores of both males and females on the x-axis, then aligns it with the reading scores on the y-axis. It next creates a line of best fit (regression line) using the slope of the data, with red to represent the female scores and dark blue for male scores.
 
 ## **Ethan's Contribution**
 
