@@ -179,3 +179,19 @@ Linear Regression - Reading vs Writing:
 
 **Observation**:
 For the technique of data analysis, I used the LinearRegression in sklearn to find the equation for the correlation between reading scores and writing scores. I was able to find that with the intercept set to 0, the equation would come out to be y=0.9829247088231474x. This concludes our initial findings that reading and writing score are highly correlated and that as reading score increases writing score also increases. In this case, the writing score increases about 0.98 times the reading score.
+
+# References/Libraries:
+
+### [1] Lecture Jupyter Notebooks
+
+### [2] Seaborn Documentation: https://seaborn.pydata.org/tutorial.html
+
+### [3] Matplotlib Documentation: https://matplotlib.org/stable/tutorials/index.html
+
+### [4] Pandas Documentation: https://pandas.pydata.org/docs/
+
+### [5] NumPy Documentation: https://numpy.org/doc/
+
+### [6] Kaggle Dataset: https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams
+
+### [7] GitHub Repository: https://github.com/wue1atwit/ExamDatatset
