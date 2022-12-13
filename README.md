@@ -2,11 +2,11 @@
 
 ### **Contributors**
 
-<img src="https://www.github.com/falconepatwit.png?size=50" width=50>
-<a href="https://www.github.com/falconepatwit">Payton Falcone</a>
 
-<img src="https://www.github.com/wue1atwit.png?size=50">
-<a href="https://www.github.com/wue1atwit">Ethan Wu</a>
+<a href="https://www.github.com/falconepatwit"><img src="https://www.github.com/falconepatwit.png" width=50> Payton Falcone</a>
+
+
+<a href="https://www.github.com/wue1atwit"><img src="https://www.github.com/wue1atwit.png" width=50> Ethan Wu</a>
 
 ### **Tabel of Content**
 
