@@ -173,7 +173,7 @@ The difference between this pair plot and the last one is that it splits the poi
 **Observation**:
 Created a pair plot that shows the correlation between the different scores. Each color shows a different group corresponding to an unknown race or ethnicity. In this pair plot, we can see that race and ethnicity has no effect on how one score may affect another score. Additionally, the diagonal of the pair plot shows the distribution and we can see which group would need more help in a certain subject. In this case, group A would need help with math.
 
-Linear Regression - Reading vs Writing:
+### Linear Regression - Reading vs Writing:
 
 ![Linear Regression Graph](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/EthanLinReg.png?raw=true)
 
@@ -182,16 +182,16 @@ For the technique of data analysis, I used the LinearRegression in sklearn to fi
 
 # References/Libraries:
 
-### [1] Lecture Jupyter Notebooks
+#### [1] Lecture Jupyter Notebooks
 
-### [2] Seaborn Documentation: https://seaborn.pydata.org/tutorial.html
+#### [2] Seaborn Documentation: https://seaborn.pydata.org/tutorial.html
 
-### [3] Matplotlib Documentation: https://matplotlib.org/stable/tutorials/index.html
+#### [3] Matplotlib Documentation: https://matplotlib.org/stable/tutorials/index.html
 
-### [4] Pandas Documentation: https://pandas.pydata.org/docs/
+#### [4] Pandas Documentation: https://pandas.pydata.org/docs/
 
-### [5] NumPy Documentation: https://numpy.org/doc/
+#### [5] NumPy Documentation: https://numpy.org/doc/
 
-### [6] Kaggle Dataset: https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams
+#### [6] Kaggle Dataset: https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams
 
-### [7] GitHub Repository: https://github.com/wue1atwit/ExamDatatset
+#### [7] GitHub Repository: https://github.com/wue1atwit/ExamDatatset
