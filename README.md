@@ -39,6 +39,9 @@ We believe students that prepare for the test should score higher overall than s
 
 Our dataset came from Kaggle and is called Students Performance in Exams by Aman Chauhan. The dataset has eight columns or in this case eight different attributes. There are three attributes with numerical values while the other five attributes are string values. These attributes include the student’s gender, race/ethnicity, parental level of education, lunch type, test preparation course, math score, reading score, and writing score. The sample size of the dataset is 1000, which means we have 1000 different students with varying attributes. Furthermore, we wanted to see the average score of the three scores for each student. To perform this we took, we appended a new column to the original dataset and named it “avgScore.” This column would add all three of the students’ scores up and divide by three to find the average of those scores (See Figure 1).
 
+#### Figure 1
+![Dataset with Average Score](https://github.com/wue1atwit/ExamDatatset/blob/main/Images/avgScore.png?raw=true)
+
 ## **Methods**
 
 In later parts of the report, we will show the division of work on who answered which of our core questions. In this project, we used the material we learned in class from the lecture Jupyter Notebooks. These tools and APIs include using Seaborn and Matplotlib main for visualization. Next, we used NumPy and Pandas to manipulate our data. We also used NumPy to check and clean our data. For example, to check the cleanliness of our dataset we used the methods `isnull()` and `isna()` and sum up all the null and na values on each column to see if there were any of these values (See Figure 2).
