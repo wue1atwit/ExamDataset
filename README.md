@@ -2,8 +2,11 @@
 
 ### **Contributors**
 
-- <a href="https://www.github.com/falconepatwit">Payton Falcone</a>
-- <a href="https://www.github.com/wue1atwit">Ethan Wu</a>
+<img src="https://www.github.com/falconepatwit.png?size=50" width=50>
+<a href="https://www.github.com/falconepatwit">Payton Falcone</a>
+
+<img src="https://www.github.com/wue1atwit.png?size=50">
+<a href="https://www.github.com/wue1atwit">Ethan Wu</a>
 
 ### **Tabel of Content**
 
@@ -12,6 +15,12 @@
 - **[Methods](#methods)**<br>
 - **[Results](#results)**<br>
 - **[Discussion/Summary](#discussionsummary)**<br>
+- **[Division of Work](#division-of-work-review)**<br>
+  - **[Payton's Contribution](#paytons-contribution)**<br>
+    - **[Payton's Individual Submission](#individual-portion-submission)**<br>
+  - **[Ethan's Contribution](#ethans-contribution)**<br>
+    - **[Ethan's Individual Submission](#individual-portion-submission-1)**<br>
+- **[References/Libraries](#referenceslibraries)**<br>
 
 ## **Abstract**
 
