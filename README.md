@@ -8,7 +8,7 @@
 
 <a href="https://www.github.com/wue1atwit"><img src="https://www.github.com/wue1atwit.png" width=50> Ethan Wu</a>
 
-### **Tabel of Content**
+### **Table of Content**
 
 - **[Abstract](#abstract)**<br>
 - **[Selection of Data](#selection-of-data)**<br>
